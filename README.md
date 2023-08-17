@@ -1,5 +1,5 @@
 # 💫 About Me:
-📋 I'm currently working at HIAS Marketing<br>📊 I'm looking to colaborate on Data Analysis<br>💻 I'm currently learning SQL and Python<br>📈 Ask me about Looker Studio
+📋 I'm currently working at HIAS Marketing<br>📊 I'm looking to colaborate on Data Analysis<br>💻 I'm currently learning SQL and Python<br>📈 Ask me about Looker Studio<br>👉 My dashboard portfolio: https://drive.google.com/drive/folders/1zo3rSAvBy_S-kcKKs2YAP-Az4cy_BP0a?usp=sharing
 
 
 ## 🌐 Socials:
@@ -12,3 +12,4 @@
 [![](https://visitcount.itsvg.in/api?id=gabrielncsoares&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
