@@ -1,5 +1,5 @@
 # 💫 About Me:
-📊 I'm looking to colaborate on Data Analysis<br>💻 I'm currently studying Data Science at Estacio<br>📈 Ask me about Python and SQL<br>👉 My dashboard portfolio: https://drive.google.com/drive/folders/1zo3rSAvBy_S-kcKKs2YAP-Az4cy_BP0a?usp=sharing
+📊 I'm looking to colaborate on Data Analysis<br>💻 I'm currently studying Data Science at Estacio<br>📈 Ask me about Python, SQL, Power BI and Machine Learning<br>
 
 
 ## 🌐 Socials:
