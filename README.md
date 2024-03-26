@@ -1,5 +1,5 @@
 # 💫 About Me:
-📊 I'm looking to colaborate on Data Analysis<br>💻 I'm currently studying Data Science at Estacio<br>📈 Ask me about Python, SQL, Power BI and Machine Learning<br>
+📊 I'm looking to colaborate on Data Analysis<br>💻 I'm currently studying Data Science at Estacio<br>📈 Ask me about Python, SQL, Power BI and Machine Learning<br>📫 How to reach me gabrielnicsoares.business@gmail.com and +55 (21) 96919-0809<br>
 
 
 ## 🌐 Socials:
